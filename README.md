@@ -5,6 +5,7 @@
 Implementation of Pseudorandom Number Generation Using Standard library
 
 # PROGRAM:
+```
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -28,6 +29,7 @@ int main()
     }
     return 0;
 }
+```
 # OUTPUT:
 ![Screenshot (193)](https://github.com/user-attachments/assets/0005eac9-2fc6-45be-92bb-5a0c3db418a8)
 
